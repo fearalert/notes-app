@@ -1,0 +1,14 @@
+.footer{
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    height: 2.5rem;
+    width: 100%;
+    background-color: aliceblue;
+}
+
+.footer-name{
+    padding-bottom: 20px;
+    color: rgb(184, 184, 184);
+    background-color: aliceblue;
+}

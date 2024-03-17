@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+    padding-left: 20px;
+    background-color: white;
+    box-shadow: 1px 1px 2px 0.1px #e3e3e39a;
+}
+
+.header-name{
+    font-size: clamp(18px, 30px, 40px);
+    color: #377BE0;
+}

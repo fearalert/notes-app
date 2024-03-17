@@ -1,0 +1,33 @@
+.container{
+    background-color: #fff;
+    border-radius: 8px;
+    float: left;
+    width: 300px;
+    margin: 16px;
+    margin-left: 40px;
+    box-shadow: 5px 5px 10px 1px #d6d6d6;
+}
+
+/* .container-content{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    box-shadow: 5px 5px 10px 1px #d6d6d6;
+} */
+
+.container-name{
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+    padding: 0px;
+}
+
+.container p{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+}
+
